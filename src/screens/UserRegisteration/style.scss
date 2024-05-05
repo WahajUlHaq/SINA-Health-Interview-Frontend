@@ -1,0 +1,41 @@
+.mainCont {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+.title {
+  font-size: 18px;
+  font-weight: 600;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  color: white;  
+  background-color: rgb(0, 65, 145);
+}
+.backIcon {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.formCont {
+  width: 100%;
+  padding: 15px;
+}
+
+.formGroup {
+  margin: 10px 0;
+}
+
+.buttonCont {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.btn { 
+  margin: 10px  
+}
